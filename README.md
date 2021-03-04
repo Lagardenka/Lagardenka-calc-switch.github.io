@@ -1,1 +1,1 @@
-lagardenka.github.io/calculator_switch/
+Lagardenka-calc-switch.github.io
