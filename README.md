@@ -1,2 +1,1 @@
-# calculator_switch
-Calculator JS switch
+lagardenka.github.io/calculator_switch/
