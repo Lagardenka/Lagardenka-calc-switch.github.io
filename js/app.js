@@ -41,7 +41,11 @@ switch (key) {
         alert(a*b);
         break;
     case '/':
-        alert(a/b);
+        if(b==0){
+            alert("b не може бути 0");
+        } else {
+            alert(a/b);
+        }
         break;
     case '%':
         alert(a%b);
